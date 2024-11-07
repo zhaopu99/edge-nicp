@@ -1,6 +1,6 @@
 # edge-nicp
 
-This repository contains the source code for the paper **"Enhanced 3D Facial Registration via Edge-Constrained Non-rigid ICP and Global Spatial Similarity Evaluation"**. The proposed method introduces an edge-constrained Non-rigid ICP algorithm for 3D facial model registration.
+This repository contains the source code for the paper **"Enhanced 3D Facial Registration via Edge-Constrained Non-rigid ICP and Global Spatial Similarity Evaluation"**. The proposed method introduces an edge-based Non-rigid ICP algorithm for 3D facial model registration.
 
 ## Installation
 
