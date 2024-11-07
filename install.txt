@@ -1,0 +1,9 @@
+conda create -n enicp python=3.9
+conda activate enicp
+conda install pytorch==1.12.0 torchvision==0.13.0 torchaudio==0.12.0 cudatoolkit=11.3 -c pytorch
+conda install -c fvcore -c iopath -c conda-forge fvcore iopath
+conda install -c bottler nvidiacub
+conda install pytorch3d -c pytorch3d
+pip install -r requirements.txt
+pip install face_alignment
+pip install seaborn

@@ -1,0 +1,5 @@
+numpy>=1.16.4
+torch>=1.9
+scikit-learn
+open3d
+matplotlib==3.4.3

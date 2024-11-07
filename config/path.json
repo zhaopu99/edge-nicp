@@ -1,0 +1,8 @@
+{
+    "bfm_name": "result/bfm_mesh.obj",
+    "before_scan_path": "testdata/00001/scan.obj",
+    "before_landmark_path": "testdata/00001/landmarks.npy",
+    "after_scan_name": "result/after_scan_00001.obj",
+    "after_landmark_name": "result/after_scan_ld_00001.txt",
+    "path_out_mesh": "result/out_mesh.obj"
+}
